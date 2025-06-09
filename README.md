@@ -1,2 +1,2 @@
-# ECEP_May2025
+# ECEP_May_2025
 Emertxe Certified Embedded Programming
